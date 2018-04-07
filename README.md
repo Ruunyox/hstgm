@@ -4,8 +4,8 @@
 ![screenshot](screen.png)
 
 `hstgm` is a simple BASH/AWK script that produces a histogram plot in the
-terminal from tab-delimited data. It is scales with the terminal size and
-labels.
+terminal from tab-delimited data. It scales with the terminal size and
+label lengths.
 
 ### Usage
 
