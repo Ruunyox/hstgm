@@ -1,7 +1,9 @@
 # hstgm
 ---
 
-![screenshot](screen.png)
+<p align="center">
+<img src="screen.png"/>
+<p/>
 
 `hstgm` is a simple BASH/AWK script that produces a histogram plot in the
 terminal from tab-delimited data. It scales with the terminal size and
